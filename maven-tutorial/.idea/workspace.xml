@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b44d6d1b-4578-4ea1-85e9-9f38f888980e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yIxC7BrWHqAKaEzNfBvReW2i1q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App (1).executor": "Run",
+    "Application.App (2).executor": "Run",
+    "Application.App (3).executor": "Run",
+    "Application.App.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StudentsData.executor": "Run",
+    "JUnit.AuthServiceTest.executor": "Run",
+    "JUnit.CalculateValuesTest.ExceptionTest.executor": "Run",
+    "JUnit.CalculateValuesTest.executor": "Run",
+    "JUnit.DiscountServiceTest.executor": "Run",
+    "JUnit.DiscountServiceTest.testPremiumCustomer.executor": "Run",
+    "JUnit.StocksTest.updateStockTest.executor": "Run",
+    "Maven.my-app [install].executor": "Run",
+    "Maven.my-app [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ZZZZZ IDHAR/SpringTutorials/Hibernate"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ZZZZZ IDHAR\SpringTutorials\maven-tutorial\my-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ZZZZZ IDHAR\SpringTutorials\maven-tutorial\my-app\src\main\java\com\tech_mahindra\app\Day20\StudentData" />
+      <recent name="C:\ZZZZZ IDHAR\SpringTutorials\maven-tutorial\my-app\src\main\resources" />
+      <recent name="C:\ZZZZZ IDHAR\SpringTutorials\maven-tutorial\my-app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StocksTest.updateStockTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tech_mahindra.app.Day21.Main" />
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech_mahindra.app.Day21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech_mahindra.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech_mahindra.app" />
+      <option name="MAIN_CLASS_NAME" value="com.tech_mahindra.app.AuthServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech_mahindra.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech_mahindra.app" />
+      <option name="MAIN_CLASS_NAME" value="com.tech_mahindra.app.CalculateValuesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateValuesTest.ExceptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech_mahindra.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech_mahindra.app" />
+      <option name="MAIN_CLASS_NAME" value="com.tech_mahindra.app.CalculateValuesTest" />
+      <option name="METHOD_NAME" value="ExceptionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StocksTest.updateStockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="my-app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tech_mahindra.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tech_mahindra.app" />
+      <option name="MAIN_CLASS_NAME" value="com.tech_mahindra.app.StocksTest" />
+      <option name="METHOD_NAME" value="updateStockTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StocksTest.updateStockTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.CalculateValuesTest.ExceptionTest" />
+        <item itemvalue="JUnit.CalculateValuesTest" />
+        <item itemvalue="JUnit.AuthServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b44d6d1b-4578-4ea1-85e9-9f38f888980e" name="Changes" comment="" />
+      <created>1749535757507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749535757507</updated>
+    </task>
+    <servers />
+  </component>
+</project>

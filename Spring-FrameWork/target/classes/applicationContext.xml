@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Payment Methods -->
+    <bean id="creditcard" class="org.Day26.Spring.CreditCard" />
+    <bean id="debitcard" class="org.Day26.Spring.DebitCard" />
+    <bean id="upi" class="org.Day26.Spring.UPI" />
+
+    <!-- Inject different payment methods -->
+    <bean id="placeOrderCredit" class="org.Day26.Spring.PlaceOrder">
+        <property name="pm" ref="creditcard" />
+        <constructor-arg  ref="creditcard"/>
+    </bean>
+
+
+    <bean id="placeOrderDebit" class="org.Day26.Spring.PlaceOrder">
+        <constructor-arg ref="debitcard"/>
+    </bean>
+
+    <bean id="placeOrderUpi" class="org.Day26.Spring.PlaceOrder">
+        <constructor-arg ref="upi"/>
+    </bean>
+
+</beans>

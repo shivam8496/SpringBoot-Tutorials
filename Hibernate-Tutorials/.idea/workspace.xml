@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62668a46-09cb-4045-9fa7-09a8209148c6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yLpWt0R0cyNbIHmobdOcZSLyL2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CreatTables.executor": "Run",
+    "Application.HIbernateMapping.executor": "Run",
+    "Application.HIbernateRemove.executor": "Run",
+    "Application.Hibernate.executor": "Run",
+    "Application.HibernateFetch.executor": "Run",
+    "Application.HibernateUpdate.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.NamedQuery.executor": "Run",
+    "Application.org.Tech_Mahindra.Day22.Department.Main.executor": "Run",
+    "Application.org.Tech_Mahindra.Day23.Department.Main.executor": "Run",
+    "Application.org.Tech_Mahindra.Day23.Question.Main.executor": "Run",
+    "Application.org.Tech_Mahindra.Day24.ManyToMany.Main.executor": "Run",
+    "Application.org.Tech_Mahindra.Day25.Lambda.Main.executor": "Run",
+    "Application.org.Tech_Mahindra.Day25.ProductInventorySystem.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/ZZZZZ IDHAR/SpringTutorials/Hibernate-Tutorials/src/main/java/org/Tech_Mahindra/Day23",
+    "onboarding.tips.debug.path": "C:/ZZZZZ IDHAR/SpringTutorials/Hibernate-Tutorials/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ZZZZZ IDHAR\SpringTutorials\Hibernate-Tutorials\src\main\java\org\Tech_Mahindra\Day23" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.Tech_Mahindra.Day25.Lambda.Main">
+    <configuration name="NamedQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech_Mahindra.Day25.NamedQuery.NamedQuery" />
+      <module name="Hibernate-Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech_Mahindra.Day25.NamedQuery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.Tech_Mahindra.Day23.Question.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech_Mahindra.Day23.Question.Main" />
+      <module name="Hibernate-Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech_Mahindra.Day23.Question.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.Tech_Mahindra.Day24.ManyToMany.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech_Mahindra.Day24.ManyToMany.Main" />
+      <module name="Hibernate-Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech_Mahindra.Day24.ManyToMany.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.Tech_Mahindra.Day25.Lambda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech_Mahindra.Day25.Lambda.Main" />
+      <module name="Hibernate-Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech_Mahindra.Day25.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.Tech_Mahindra.Day25.ProductInventorySystem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.Tech_Mahindra.Day25.ProductInventorySystem.Main" />
+      <module name="Hibernate-Tutorials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Tech_Mahindra.Day25.ProductInventorySystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.Tech_Mahindra.Day25.Lambda.Main" />
+        <item itemvalue="Application.org.Tech_Mahindra.Day25.ProductInventorySystem.Main" />
+        <item itemvalue="Application.NamedQuery" />
+        <item itemvalue="Application.org.Tech_Mahindra.Day24.ManyToMany.Main" />
+        <item itemvalue="Application.org.Tech_Mahindra.Day23.Question.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62668a46-09cb-4045-9fa7-09a8209148c6" name="Changes" comment="" />
+      <created>1749623746330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749623746330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="jakarta.persistence.EntityExistsException" package="jakarta.persistence" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="student1" class="org.Day26.Collage.Student" >
+        <constructor-arg   index="0" value="Shivam"/>
+        <constructor-arg   index="1" value="90"/>
+    </bean>
+
+    <bean id="student2" class="org.Day26.Collage.Student" >
+        <constructor-arg   index="0" value="singh"/>
+        <constructor-arg   index="1" value="100"/>
+    </bean>
+    <bean id="student3" class="org.Day26.Collage.Student" >
+        <constructor-arg   index="0" value="kapar"/>
+        <constructor-arg   index="1" value="60"/>
+    </bean>
+
+    <bean id="collage" class="org.Day26.Collage.Collage" >
+        <property name="st" ref="student1" />
+        <constructor-arg value="Chandigrah University" />
+    </bean>
+
+    <bean id="studentList" class="org.Day26.Collage.StudentList" >
+        <property name="students">
+            <list>
+                <ref bean="student1"/>
+                <ref bean="student2"/>
+                <ref bean="student3"/>
+            </list>
+        </property>
+    </bean>
+
+    <bean id="studentSet" class="org.Day26.Collage.StudentSet">
+        <constructor-arg>
+            <set>
+                <value>12</value>
+                <value>11</value>
+            </set>
+        </constructor-arg>
+    </bean>
+
+
+    <bean id="library" class="org.Day26.Collage.Library">
+        <constructor-arg>
+            <map>
+                <entry key="Title1" value-ref="student2"/>
+                <entry key="Title" value-ref="student1"/>
+                <entry key="Title2" value-ref="student3"/>
+            </map>
+        </constructor-arg>
+    </bean>
+
+
+</beans>
